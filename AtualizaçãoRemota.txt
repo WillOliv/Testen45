@@ -1,1 +1,4 @@
 Arquivo criado no repositório remoto para fazer recuperação no repositório físico utilizando o comando "git pull".
+
+Funcionando.
+(Edição feita pelo repositório remoto).

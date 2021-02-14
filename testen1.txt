@@ -9,3 +9,5 @@ teste de continuação número 3
 correções finais e encerramento do teste.
 
 Obrigado.
+
+Edição teste feita pelo Rash usando o comando "vim"
