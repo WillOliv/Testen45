@@ -3,3 +3,5 @@ de
 continuação 
 número 1
 
+teste de continuação número 2
+itens novos adicionados e configurações corrigidas
