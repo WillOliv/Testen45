@@ -1,7 +1,11 @@
-Teste 
-de 
-continuação 
-número 1
+Teste de continuação número 1
+(Correção de esrita).
 
 teste de continuação número 2
-itens novos adicionados e configurações corrigidas
+itens novos adicionados e configurações corrigidas.
+(Novos itens adicionados e correções feitas).
+
+teste de continuação número 3
+correções finais e encerramento do teste.
+
+Obrigado.
